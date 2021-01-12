@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.primary{
+	
+	background:#36b1d6;
+	
+	
+}
+.card-header-color{
+	background-color: red;
+	
+}
+
+.btn-search{
+	background: #00d000;
+	color: white
+	
+}
+
+
+.modal-body {
+  overflow-x: auto;
+}
+
+
+.table-padding-right {
+	
+	padding-right: 20px
+	
+	
+}
